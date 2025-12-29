@@ -1,8 +1,9 @@
 # Environment variables
 .env
 
-# Database dumps
-*.sql
+# Alleen database dumps negeren
+*dump.sql
+*backup.sql
 
 # OS files
 .DS_Store

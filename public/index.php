@@ -168,6 +168,10 @@ function h(string $value): string
 <button type="submit">Versturen</button>
 
         </form>
+
+        <p class="meta">
+    JSON: <a href="/api.php" target="_blank">/api.php</a><br>
+</p>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
